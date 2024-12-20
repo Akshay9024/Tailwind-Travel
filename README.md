@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Akshay9024/Tailwind-Travel.git
    ```
 2. Navigate to the project directory:
    ```bash
