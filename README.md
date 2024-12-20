@@ -65,7 +65,7 @@ npm run watch
 
 ## 📸 Screenshot
 
-![Travel Explorer Preview](https://via.placeholder.com/800x400?text=Website+Preview)
+![Travel Explorer Preview](photos/front.png)
 
 ---
 
